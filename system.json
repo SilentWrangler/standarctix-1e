@@ -1,0 +1,60 @@
+{
+  "id": "standarctix-1e",
+  "title": "Standarctix First Edition",
+  "description": "The Standarctix First Edition system for FoundryVTT!",
+  "authors": [
+    {
+      "name": "SilentWrangler",
+      "discord": "silentwrangler"
+    },
+    {
+      "name": "Demonyak",
+      "discord": "vlad_demonyak"
+    }
+  ],
+  "url": "Replace this with a link to your public repository",
+  "license": "LICENSE.txt",
+  "readme": "README.md",
+  "bugs": "Replace this with a link to file issues or tickets",
+  "changelog": "CHANGELOG.md",
+  "media": [
+    {
+      "type": "setup",
+      "url": "systems/standarctix-1e/assets/anvil-impact.png",
+      "thumbnail": "systems/standarctix-1e/assets/anvil-impact.png"
+    }
+  ],
+  "version": "2.0.1",
+  "compatibility": {
+    "minimum": 13,
+    "verified": "13.346"
+  },
+  "esmodules": ["module/standarctix-1e.mjs"],
+  "styles": ["css/standarctix-1e.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "packFolders": [],
+  "socket": false,
+  "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
+  "download": "This must link to a .zip file of the current version",
+  "background": "systems/standarctix-1e/assets/anvil-impact.png",
+  "grid":{
+	  "distance": 5,
+	  "units": "ft"
+  },
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  
+  "documentTypes": {
+    "Actor": {
+      "character": {}
+    }
+  
+	}
+}
