@@ -24,7 +24,7 @@
       "thumbnail": "systems/standarctix-1e/assets/anvil-impact.png"
     }
   ],
-  "version": "2.0.1",
+  "version": "2.0.2",
   "compatibility": {
     "minimum": 13,
     "verified": "13.346"

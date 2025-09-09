@@ -2,11 +2,11 @@
   "STANDARCTIX_1E": {
     "Ability": {
       "Str": { "long": "Strength", "abbr": "str" },
-      "Con": { "long": "Constitution", "abbr": "con" },
+      "End": { "long": "Endurance", "abbr": "end" },
       "Dex": { "long": "Dexterity", "abbr": "dex" },
-      "Int": { "long": "Intelligence", "abbr": "int" },
+      "Per": { "long": "Perception", "abbr": "per" },
       "Wis": { "long": "Wisdom", "abbr": "wis" },
-      "Cha": { "long": "Charisma", "abbr": "cha" }
+      "Wil": { "long": "Will", "abbr": "wil" }
     },
     "SheetLabels": {
       "Actor": "Standarctix1E Actor Sheet",

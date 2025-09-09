@@ -7,17 +7,17 @@ export const STANDARCTIX_1E = {};
 STANDARCTIX_1E.abilities = {
   str: 'STANDARCTIX_1E.Ability.Str.long',
   dex: 'STANDARCTIX_1E.Ability.Dex.long',
-  con: 'STANDARCTIX_1E.Ability.Con.long',
-  int: 'STANDARCTIX_1E.Ability.Int.long',
+  end: 'STANDARCTIX_1E.Ability.End.long',
+  wil: 'STANDARCTIX_1E.Ability.Wil.long',
   wis: 'STANDARCTIX_1E.Ability.Wis.long',
-  cha: 'STANDARCTIX_1E.Ability.Cha.long',
+  per: 'STANDARCTIX_1E.Ability.Per.long',
 };
 
 STANDARCTIX_1E.abilityAbbreviations = {
   str: 'STANDARCTIX_1E.Ability.Str.abbr',
   dex: 'STANDARCTIX_1E.Ability.Dex.abbr',
-  con: 'STANDARCTIX_1E.Ability.Con.abbr',
-  int: 'STANDARCTIX_1E.Ability.Int.abbr',
+  end: 'STANDARCTIX_1E.Ability.End.abbr',
+  wil: 'STANDARCTIX_1E.Ability.Wil.abbr',
   wis: 'STANDARCTIX_1E.Ability.Wis.abbr',
-  cha: 'STANDARCTIX_1E.Ability.Cha.abbr',
+  per: 'STANDARCTIX_1E.Ability.Cha.abbr',
 };
